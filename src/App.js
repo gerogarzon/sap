@@ -1,4 +1,4 @@
-import sap from "./assets/descarga2.png";
+import sap from "./assets/descarga3.png";
 import "./App.css";
 
 function App() {
@@ -20,7 +20,7 @@ function App() {
         {/* <div className="body"></div> */}
         <iframe
           width="853"
-          height="450"
+          height="430"
           src="https://www.youtube.com/embed/LQWAZCa5qyg "
           title="13 de octubre de 2022"
           frameborder="0"
